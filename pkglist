@@ -1,12 +1,11 @@
 ImageMagick--
+aria2--
 asclock--classic-english
-curl--
 emacs--%emacs21
 ffmpeg--
-fvwm2+fvicons--
 git--
 links+--
-mpv--
+mplayer--
 mupdf--
 nano--
 python--%2.7
@@ -14,4 +13,3 @@ quirks--
 rxvt-unicode--
 sudo--
 wordnet--
-xcursor-themes--

@@ -1,0 +1,23 @@
+community/aria2 1.34.0-1
+community/bbswitch 0.8-157
+extra/ffmpeg 1:4.0.2-1
+extra/fvwm 2.6.8-3
+extra/git 2.18.0-1
+extra/intel-ucode 20180807-1
+extra/mplayer 38101-1
+community/mupdf 1.13.0-1
+extra/ntfs-3g 2017.3.23-1
+community/pamixer 1.3.1-9
+extra/python 3.7.0-3
+extra/python2 2.7.15-2
+community/tcsh 6.20.00-1
+extra/xf86-video-intel 1:2.99.917+831+ge7bfc906-1 (xorg-drivers)
+extra/xorg-fonts-100dpi 1.0.3-3 (xorg)
+extra/xorg-fonts-misc 1.0.3-5
+extra/xorg-server 1.20.0-9 (xorg)
+extra/xorg-xeyes 1.1.2-1
+extra/xorg-xfontsel 1.0.6-1
+extra/xorg-xinit 1.4.0-3
+extra/xorg-xload 1.1.3-1
+extra/xorg-xrandr 1.5.0-1 (xorg-apps xorg)
+extra/xorg-xsetroot 1.1.2-1 (xorg-apps xorg)

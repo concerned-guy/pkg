@@ -8,6 +8,7 @@ extra/mplayer 38101-1
 community/mupdf 1.13.0-1
 extra/ntfs-3g 2017.3.23-1
 community/pamixer 1.3.1-9
+extra/pulseaudio 12.2-2
 extra/python 3.7.0-3
 extra/python2 2.7.15-2
 community/tcsh 6.20.00-1

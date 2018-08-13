@@ -9,6 +9,7 @@ community/mupdf
 extra/ntfs-3g
 community/pamixer
 extra/pulseaudio
+extra/pulseaudio-alsa
 extra/python
 extra/python2
 community/tcsh

@@ -1,3 +1,5 @@
+extra/alsa-firmware
+extra/alsa-utils
 community/aria2
 community/bbswitch
 extra/ffmpeg
@@ -7,9 +9,6 @@ extra/intel-ucode
 extra/mplayer
 community/mupdf
 extra/ntfs-3g
-community/pamixer
-extra/pulseaudio
-extra/pulseaudio-alsa
 extra/python
 extra/python2
 community/tcsh

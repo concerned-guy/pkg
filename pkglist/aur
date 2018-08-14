@@ -1,5 +1,4 @@
 local/asclock-xlib
-local/emacs-lucid
 local/package-query
 local/rxvt
 local/wordnet

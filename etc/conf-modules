@@ -1,0 +1,2 @@
+# /etc/conf.d/modules
+modules="bbswitch"

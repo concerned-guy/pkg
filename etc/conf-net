@@ -1,0 +1,4 @@
+config_enp3s0="dhcp"
+dhcpcd_enp3s0="-q -b"
+config_wlp2s0="dhcp"
+dhcpcd_wlp2s0="-q -b"

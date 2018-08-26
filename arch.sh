@@ -1,5 +1,6 @@
 #!/bin/sh
-echo "# Official Packages:"
-yaourt -Qe | grep '^ext\|^com\|^mul' | awk -F' |/' '{print $2}' | tee arch
-echo; echo "# AUR Packages:"
-yaourt -Qe | grep '^loc' | awk -F' |/' '{print $2}' | tee aur
+echo "# Explicit Packages:"
+temp=$(mktemp /tmp/arch.XXXXXX)
+pacman -Qqg base base-devel > $temp
+pacman -Qqe | grep -Fxvf $temp | tee arch
+rm $temp

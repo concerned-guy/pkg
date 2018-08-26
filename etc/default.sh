@@ -30,7 +30,7 @@ case "$group" in
 			#	;;
 
 			lid)
-				test "$id" = close && echo mem > /sys/power/state
+				[ "$id" = close ] && echo mem > /sys/power/state
 				;;
 
 			mute)
@@ -66,14 +66,6 @@ case "$group" in
 			#*1)
 			#	cpufreq-set -g performance
 			#	;;
-
-#			*0)
-#				cpupower -c all frequency-set -g powersave
-#				;;
-
-#			*1)
-#				cpupower -c all frequency-set -g performance
-#				;;
 
 			*)	log_unhandled $* ;;
 		esac

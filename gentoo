@@ -19,10 +19,11 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-power/acpid
 sys-power/bbswitch
-www-client/links
+www-client/lynx
 x11-apps/xeyes
 x11-apps/xload
 x11-apps/xsetroot
 x11-base/xorg-server
 x11-plugins/asclock
+x11-terms/rxvt-unicode
 x11-wm/fvwm
